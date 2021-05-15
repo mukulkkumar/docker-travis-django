@@ -1,2 +1,9 @@
-# recipe-app-api
-Recipe App Api Project Source Code 
+# Travis CI django Integration
+
+## *To start project, run:*
+
+```
+docker-compose up
+```
+
+*The API will then be available at http://127.0.0.1:8000.*
